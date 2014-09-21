@@ -1,5 +1,17 @@
-video, canvas {
+* {
+    margin: 0;
+    padding: 0;
+}
+#video {
+    display: none;
+}
+#canvas {
     position: absolute;
     top: 0;
     left: 0;
+}
+#img {
+    position: absolute;
+    top: 0;
+    right: 0;
 }
