@@ -6,9 +6,9 @@
     display: none;
 }
 #canvas {
-    position: absolute;
-    top: 0;
-    left: 0;
+  position: absolute;
+  width: 80%;
+  margin: 0 10%;
 }
 #img {
     position: absolute;
